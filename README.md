@@ -25,10 +25,17 @@ You will need to install MySQL2, Sequelize, and Express.js packages using npm. Y
 
 ## 📸 Application Demos
 
-> Categories Demonstrations
+> Category Demonstrations
 
 ![Categories](./images/categories.gif)
 
+> Tag Demonstrations
+
+![Tags](./images/tags.gif)
+
+> Product Demonstrations
+
+![Tags](./images/products.gif)
 
 ## 📱 Contact 
 
